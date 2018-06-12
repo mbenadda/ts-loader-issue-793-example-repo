@@ -1,0 +1,13 @@
+{
+  "name": "getOptionsDiagnostics-example",
+  "version": "1.0.0",
+  "main": "index.tsx",
+  "author": "Mehdi Benadda <me@mbenadda.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-loader": "^4.4.1",
+    "typescript": "^2.9.1",
+    "webpack": "^4.12.0",
+    "webpack-cli": "^3.0.4"
+  }
+}
